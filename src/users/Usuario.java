@@ -1,7 +1,8 @@
+package users;
 public class Usuario {
-    String name;
-    String email;
-    String senha;
+    protected String name;
+    protected String email;
+    protected String senha;
 
     public Usuario() {
         
